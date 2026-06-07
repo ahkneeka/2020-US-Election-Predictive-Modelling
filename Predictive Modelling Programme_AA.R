@@ -1,4 +1,4 @@
-#Statistical Analysis III - Final Project - Anica Azad (21363939)
+#Statistical Analysis III - Final Project - Anica Azad 
 setwd("C:/Users/anica/Documents/Stat III/Stat3 Final Project") # Set working directory to location of the original dataset, mine is my project file
 load("data_election_2020.RData")
 ls()#After loading in the data_election_2020 dataset, we must check if it's properly loaded
