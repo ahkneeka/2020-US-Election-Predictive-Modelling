@@ -1,5 +1,5 @@
 # 2020-US-Election-Predictive-Modelling
-For STU33002 - Statistical Analysis III in Trinity College Dublin
+*For STU33002 - Statistical Analysis III in Trinity College Dublin*
 
 This repository contains the R code and comprehensive report for a predictive analysis of the 2020 United States Presidential Election. The project utilizes advanced modeling techniques, specifically Generalized Linear Models (Logistic Regression), to predict voting outcomes based on demographic and socioeconomic variables.
 
